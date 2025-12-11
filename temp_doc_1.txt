@@ -1,0 +1,17 @@
+Title: The Solar-Powered Smart Farm in Seoul
+
+Introduction
+
+In 2022, engineer Kim Min-jun founded a small smart farm on the outskirts of Seoul. The farm uses solar panels, automated irrigation, and AI-based monitoring to grow vegetables year-round. The project was supported by the Seoul Metropolitan Government and a local startup incubator.
+
+Technology and Infrastructure
+
+The farm is powered by a solar energy system installed in March 2022. The panels supply electricity to water pumps, sensors, and small robots that monitor plant health. Data from temperature and humidity sensors is sent to a central computer every 10 minutes. The system was designed by a team from Korea University.
+
+Economic and Social Impact
+
+By 2024, the farm had reduced electricity costs by 60 percent and increased crop yield by 35 percent compared to traditional farms nearby. Local residents visit the farm on weekends to learn about renewable energy and urban agriculture. The project has inspired similar smart farms in Busan and Incheon.
+
+Future Plans
+
+Kim Min-jun plans to expand the farm in 2026 by adding a greenhouse for strawberries and building a small classroom for students. The Seoul Metropolitan Government is considering additional funding if the project continues to demonstrate environmental and economic benefits.

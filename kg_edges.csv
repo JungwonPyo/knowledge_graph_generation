@@ -1,0 +1,41 @@
+source,target,label
+unit,section-0,HAS_SECTION
+section-0,section-0-m-0,MENTION
+section-0,section-0-m-1,MENTION
+section-0,section-0-m-2,MENTION
+section-0,section-0-m-3,MENTION
+section-0,section-0-m-4,MENTION
+section-0,section-0-m-5,MENTION
+section-0-m-1,section-0-m-5,Kim Min-jun founded the small smart farm
+section-0-m-5,section-0-m-2,The small smart farm is located on the outskirts of Seoul
+section-0-m-5,section-0-m-3,The small smart farm was supported by the Seoul Metropolitan Government
+section-0-m-5,section-0-m-4,The small smart farm was supported by the local startup incubator
+section-0-m-5,section-0-m-0,The small smart farm was founded in 2022
+unit,section-1,HAS_SECTION
+section-1,section-1-m-0,MENTION
+section-1,section-1-m-1,MENTION
+section-1,section-1-m-2,MENTION
+section-1-m-2,section-1-m-0,The solar energy system was installed in March 2022
+section-1-m-2,section-1-m-1,The solar energy system was designed by Korea University
+unit,section-2,HAS_SECTION
+section-2,section-2-m-0,MENTION
+section-2,section-2-m-1,MENTION
+section-2,section-2-m-2,MENTION
+section-2,section-2-m-3,MENTION
+section-2,section-2-m-4,MENTION
+section-2,section-2-m-5,MENTION
+section-2-m-0,section-2-m-1,reduced electricity costs by 60 percent by 2024
+section-2-m-0,section-2-m-4,serves as a learning site for renewable energy
+section-2-m-0,section-2-m-5,serves as a learning site for urban agriculture
+section-2-m-0,section-2-m-2,inspired similar smart farms in Busan
+section-2-m-0,section-2-m-3,inspired similar smart farms in Incheon
+unit,section-3,HAS_SECTION
+section-3,section-3-m-0,MENTION
+section-3,section-3-m-1,MENTION
+section-3,section-3-m-2,MENTION
+section-3,section-3-m-3,MENTION
+section-3,section-3-m-4,MENTION
+section-3-m-0,section-3-m-3,plans to expand the farm
+section-3-m-0,section-3-m-1,plans to expand the farm in
+section-3-m-4,section-3-m-3,involves expanding the farm
+section-3-m-2,section-3-m-4,is considering additional funding if the project continues to demonstrate benefits

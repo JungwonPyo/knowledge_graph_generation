@@ -1,0 +1,198 @@
+{
+  "title": "The Solar-Powered Smart Farm in Seoul",
+  "summary": "In 2022, engineer Kim Min-jun established a smart farm on Seoul's outskirts, integrating solar panels, automated irrigation, and AI monitoring to enable year-round vegetable production. Supported by the Seoul Metropolitan Government and a local startup incubator, the project demonstrates innovative agricultural technology. The solar energy system, installed in March 2022, powers water pumps, sensors, and robots while transmitting sensor data to a central computer every 10 minutes. By 2024, the farm achieved 60% lower electricity costs and 35% higher crop yields compared to traditional farms. It also serves as an educational site for residents and has inspired similar projects in Busan and Incheon. The Seoul government may provide additional funding if the project continues to show environmental and economic benefits. Kim plans to expand in 2026 with a strawberry greenhouse and educational classroom.",
+  "sections": [
+    {
+      "title": "Introduction",
+      "summary": "In 2022, engineer Kim Min-jun established a small smart farm on the outskirts of Seoul. The farm employs solar panels, automated irrigation, and AI-based monitoring to grow vegetables year-round. It received support from the Seoul Metropolitan Government and a local startup incubator.",
+      "mentions": [
+        {
+          "type": "TIME",
+          "string": "2022"
+        },
+        {
+          "type": "PERSON",
+          "string": "Kim Min-jun"
+        },
+        {
+          "type": "LOCATION",
+          "string": "outskirts of Seoul"
+        },
+        {
+          "type": "ORGANIZATION",
+          "string": "Seoul Metropolitan Government"
+        },
+        {
+          "type": "ORGANIZATION",
+          "string": "local startup incubator"
+        },
+        {
+          "type": "EVENT",
+          "string": "small smart farm"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Kim Min-jun",
+          "tail": "small smart farm",
+          "relation_description": "Kim Min-jun founded the small smart farm"
+        },
+        {
+          "head": "small smart farm",
+          "tail": "outskirts of Seoul",
+          "relation_description": "The small smart farm is located on the outskirts of Seoul"
+        },
+        {
+          "head": "small smart farm",
+          "tail": "Seoul Metropolitan Government",
+          "relation_description": "The small smart farm was supported by the Seoul Metropolitan Government"
+        },
+        {
+          "head": "small smart farm",
+          "tail": "local startup incubator",
+          "relation_description": "The small smart farm was supported by the local startup incubator"
+        },
+        {
+          "head": "small smart farm",
+          "tail": "2022",
+          "relation_description": "The small smart farm was founded in 2022"
+        }
+      ]
+    },
+    {
+      "title": "Technology and Infrastructure",
+      "summary": "The farm utilizes a solar energy system installed in March 2022 to power water pumps, sensors, and small robots monitoring plant health. Data from temperature and humidity sensors is transmitted to a central computer every 10 minutes. The system was designed by a team from Korea University.",
+      "mentions": [
+        {
+          "type": "TIME",
+          "string": "March 2022"
+        },
+        {
+          "type": "ORGANIZATION",
+          "string": "Korea University"
+        },
+        {
+          "type": "EVENT",
+          "string": "solar energy system installed"
+        }
+      ],
+      "relations": [
+        {
+          "head": "solar energy system installed",
+          "tail": "March 2022",
+          "relation_description": "The solar energy system was installed in March 2022"
+        },
+        {
+          "head": "solar energy system installed",
+          "tail": "Korea University",
+          "relation_description": "The solar energy system was designed by Korea University"
+        }
+      ]
+    },
+    {
+      "title": "Economic and Social Impact",
+      "summary": "By 2024, the farm achieved a 60% reduction in electricity costs and a 35% increase in crop yield compared to traditional farms. Local residents engage in weekend visits to learn about renewable energy and urban agriculture, while the project has inspired similar smart farms in Busan and Incheon.",
+      "mentions": [
+        {
+          "type": "LOCATION",
+          "string": "the farm"
+        },
+        {
+          "type": "TIME",
+          "string": "2024"
+        },
+        {
+          "type": "LOCATION",
+          "string": "Busan"
+        },
+        {
+          "type": "LOCATION",
+          "string": "Incheon"
+        },
+        {
+          "type": "EVENT",
+          "string": "renewable energy"
+        },
+        {
+          "type": "EVENT",
+          "string": "urban agriculture"
+        }
+      ],
+      "relations": [
+        {
+          "head": "the farm",
+          "tail": "2024",
+          "relation_description": "reduced electricity costs by 60 percent by 2024"
+        },
+        {
+          "head": "the farm",
+          "tail": "renewable energy",
+          "relation_description": "serves as a learning site for renewable energy"
+        },
+        {
+          "head": "the farm",
+          "tail": "urban agriculture",
+          "relation_description": "serves as a learning site for urban agriculture"
+        },
+        {
+          "head": "the farm",
+          "tail": "Busan",
+          "relation_description": "inspired similar smart farms in Busan"
+        },
+        {
+          "head": "the farm",
+          "tail": "Incheon",
+          "relation_description": "inspired similar smart farms in Incheon"
+        }
+      ]
+    },
+    {
+      "title": "Future Plans",
+      "summary": "Kim Min-jun intends to expand the farm in 2026 by constructing a greenhouse for strawberries and a small classroom for students. The Seoul Metropolitan Government may provide additional funding if the project continues to show environmental and economic benefits.",
+      "mentions": [
+        {
+          "type": "PERSON",
+          "string": "Kim Min-jun"
+        },
+        {
+          "type": "TIME",
+          "string": "2026"
+        },
+        {
+          "type": "ORGANIZATION",
+          "string": "Seoul Metropolitan Government"
+        },
+        {
+          "type": "LOCATION",
+          "string": "farm"
+        },
+        {
+          "type": "EVENT",
+          "string": "project"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Kim Min-jun",
+          "tail": "farm",
+          "relation_description": "plans to expand the farm"
+        },
+        {
+          "head": "Kim Min-jun",
+          "tail": "2026",
+          "relation_description": "plans to expand the farm in"
+        },
+        {
+          "head": "project",
+          "tail": "farm",
+          "relation_description": "involves expanding the farm"
+        },
+        {
+          "head": "Seoul Metropolitan Government",
+          "tail": "project",
+          "relation_description": "is considering additional funding if the project continues to demonstrate benefits"
+        }
+      ]
+    }
+  ]
+}

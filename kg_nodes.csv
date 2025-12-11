@@ -1,0 +1,26 @@
+id,label,type
+unit,The Solar-Powered Smart Farm in Seoul,unit
+section-0,Introduction,section
+section-0-m-0,2022,TIME
+section-0-m-1,Kim Min-jun,PERSON
+section-0-m-2,outskirts of Seoul,LOCATION
+section-0-m-3,Seoul Metropolitan Government,ORGANIZATION
+section-0-m-4,local startup incubator,ORGANIZATION
+section-0-m-5,small smart farm,EVENT
+section-1,Technology and Infrastructure,section
+section-1-m-0,March 2022,TIME
+section-1-m-1,Korea University,ORGANIZATION
+section-1-m-2,solar energy system installed,EVENT
+section-2,Economic and Social Impact,section
+section-2-m-0,the farm,LOCATION
+section-2-m-1,2024,TIME
+section-2-m-2,Busan,LOCATION
+section-2-m-3,Incheon,LOCATION
+section-2-m-4,renewable energy,EVENT
+section-2-m-5,urban agriculture,EVENT
+section-3,Future Plans,section
+section-3-m-0,Kim Min-jun,PERSON
+section-3-m-1,2026,TIME
+section-3-m-2,Seoul Metropolitan Government,ORGANIZATION
+section-3-m-3,farm,LOCATION
+section-3-m-4,project,EVENT
