@@ -75,3 +75,4 @@ ollama run qwen3:8b
 
 # References
 - https://jupyter2607.medium.com/part-2a-update-implementing-a-graph-builder-agent-for-document-based-knowledge-graphs-with-c372497ecc24
+- https://medium.com/the-muse-junction/how-to-build-knowledge-graphs-using-llms-on-local-machines-5926261c04eb
